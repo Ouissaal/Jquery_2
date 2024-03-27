@@ -1,0 +1,28 @@
+.box{
+    border: 1px solid darkslategrey;
+    width: 400px;
+    height: 200px;
+    margin: 9px;
+    margin-left: 100px;
+    color: maroon;
+}
+.ninebox{
+    background-color: chocolate ;
+}
+.teenbox{
+    background-color: olivedrab;
+}
+
+.btnH , .btnR{
+    border: 1px solid gray;
+    margin: 15px;
+    cursor: pointer;
+}
+header{
+    padding: 50px;
+    background-color: antiquewhite;
+}
+.container{
+    padding: 20px;
+    margin: 50px;
+}
